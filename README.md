@@ -21,15 +21,3 @@ Options:
   -f, --format [type]  output format (default: "stylish")
   -h, --help           output usage information
 ```
-
-### Example of comparing JSON files. Formatter: 'stylish':
-[![asciicast](https://asciinema.org/a/459767.svg)](https://asciinema.org/a/459767)
-
-### Example of comparing YAML files. Formatter: 'stylish':
-[![asciicast](https://asciinema.org/a/459768.svg)](https://asciinema.org/a/459768)
-
-### Example of comparing JSON and YAML files. Formatter: 'plain':
-[![asciicast](https://asciinema.org/a/459967.svg)](https://asciinema.org/a/459967)
-
-### Example of comparing JSON and YAML files. Formatter: 'json':
-[![asciicast](https://asciinema.org/a/460058.svg)](https://asciinema.org/a/460058)
