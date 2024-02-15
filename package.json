@@ -1,0 +1,32 @@
+{
+  "name": "difference-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "npx jest --bail"
+  },
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pav-nk/Difference-Generator.git"
+  },
+  "author": "Pavel-nk",
+  "license": "ISC",
+  "homepage": "https://github.com/pav-nk/Difference-Generator#readme",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "jest": "^27.4.5",
+    "jest-cli": "^27.4.5"
+  }
+}
