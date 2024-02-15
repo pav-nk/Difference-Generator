@@ -1,4 +1,6 @@
-### Difference generator
+# Difference generator
+
+Hexlet: Frontend Developer's Course
 
 #### About the project
 
