@@ -5,7 +5,6 @@ Hexlet: Frontend Developer's Course
 ### About the project
 
 The project implements a utility to find differences in configuration files.  
-Utility Features:  
 - support for different formats - json, yaml.
 - generate report in three different views.
 
